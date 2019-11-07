@@ -1,0 +1,13 @@
+  SECOND TASK - SHORTENED DESCRIPTION
+
+• Create a test with Selenium WebDriver, which does the following:
+
+  1. Load https://www.automatetheplanet.com/test-automation-reporting-zafira/#tab-con-4
+  2. Scroll the web page to its "Quick Navigation" section
+  3. Open every hyperlink in the "Quick Navigation" section
+  4. Verify that every "Quick Navigation" section's hyperlink can be successfully opened.
+  5. Verify that after opening a "Quick Navigation" section's hyperlink, a section with the same name is displayed on the screen.
+
+• According to this task, there has to have 9 manually created test cases, due to the number of "Quick Navigation" section's hyperlinks in
+the "Automate the planet" website's "Test Automation Reporting with Zafira in .NET Projects" article (known shortly as "Second Article") - 
+all of which have to be automated in accordance with this project's objectives. 
