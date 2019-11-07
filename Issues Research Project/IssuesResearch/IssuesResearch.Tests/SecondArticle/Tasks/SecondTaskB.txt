@@ -1,0 +1,20 @@
+﻿II B. TEST CASES - "Test Automation Reporting with Zafira in .NET Projects" ARTICLE
+
+• Original test case's title: 
+Open "Primary features" hyperlink 
+
+• Shortened test case's title in the Visual Studio's Selenium project:
+Second article's 2nd "QuickNavigation" hyperlink scrolls page to proper section
+
+• Steps to reproduce:
+1. Load https://www.automatetheplanet.com/test-automation-reporting-zafira/
+2. Scroll the web page to its "Quick Navigation" section
+3. Open the "Quick Navigation" section's "Primary features" hyperlink
+
+• Expected result:
+The "Quick Navigation" section's "Primary features" hyperlink is successfully opened.
+
+• Post-condition:
+A "Primary features" page section is displayed on the screen.
+
+• Test status: PASS

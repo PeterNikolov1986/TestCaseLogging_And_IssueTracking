@@ -1,0 +1,20 @@
+﻿I A. TEST CASES - "Jenkins C# API Library for Triggering Builds" ARTICLE
+
+• Original test case's title: 
+Open "Jenkins C# Library Use Case" hyperlink 
+
+• Shortened test case's title in the Visual Studio's Selenium project:
+First article's 1st "QuickNavigation" hyperlink scrolls page to proper section
+
+• Steps to reproduce:
+1. Load https://www.automatetheplanet.com/jenkins-csharp-api-triggering-builds/
+2. Scroll the web page to its "Quick Navigation" section
+3. Open the "Quick Navigation" section's "Jenkins C# Library Use Case" hyperlink
+
+• Expected result:
+The "Quick Navigation" section's "Jenkins C# Library Use Case" hyperlink is successfully opened.
+
+• Post-condition:
+A "Jenkins C# Library Use Case" page section is displayed on the screen.
+
+• Test status: FAIL

@@ -1,0 +1,20 @@
+﻿I G. TEST CASES - "Jenkins C# API Library for Triggering Builds" ARTICLE
+
+• Original test case's title: 
+Open "BuildService Explained" hyperlink 
+
+• Shortened test case's title in the Visual Studio's Selenium project:
+First article's 7th "QuickNavigation" hyperlink scrolls page to proper section
+
+• Steps to reproduce:
+1. Load https://www.automatetheplanet.com/jenkins-csharp-api-triggering-builds/
+2. Scroll the web page to its "Quick Navigation" section
+3. Open the "Quick Navigation" section's "BuildService Explained" hyperlink
+
+• Expected result:
+The "Quick Navigation" section's "BuildService Explained" hyperlink is successfully opened.
+
+• Post-condition:
+A "BuildService Explained" page section is displayed on the screen.
+
+• Test status: FAIL
