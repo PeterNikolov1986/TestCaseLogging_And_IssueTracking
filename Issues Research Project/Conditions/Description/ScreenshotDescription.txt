@@ -1,0 +1,5 @@
+  SCREENSHOTS DESCRIPTION
+
+  If any test, part of this Visual Studio Selenium UI Automation's project, fails, the web driver has to take a screenshot to the browser. 
+The only important condition is the names of the screenshots to be the same ones as the names of the failed tests. These screenshots have
+to be located on a project's specially created "Screenshots" folder.
