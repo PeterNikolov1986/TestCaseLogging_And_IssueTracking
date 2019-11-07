@@ -1,0 +1,36 @@
+  AUTOMATION TASK OBJECTIVES:
+
+• to be shortened all designed test cases' names in the Visual Studio Selenium UI Automation's project:
+
+  - the original names of the already designed test cases, logged in the current GitHub repository through its "Issues" option, are longer 
+    than their expected length, so:
+
+    - the first "Automate the planet" website's article, chosen to be object for testing - "Jenkins C# API Library for Triggering Builds" -
+      has to be shortened as "First Article" in the Visual Studio's project;
+
+    - the second "Automate the planet" website's article, chosen to be object for testing - "Test Automation Reporting with Zafira in .NET 
+      Projects" - has to be shortened as "Second Article" in the Visual Studio's project;
+
+
+• every article's "Quick Navigation" section's hyperlinks - which successful opening has to be verified - are found as web elements, part of 
+a list in the Visual Studio's project, so:
+
+  - the original names of all "Quick Navigation" section's hyperlinks are shortened in the Visual Studio's project in accordance with their
+    order in the list and with the article, part of which "Quick Navigation" section they are.
+
+    - for example, the "What is Zafira?" navigation hyperlink, part of the "Quick Navigation" section of the "Test Automation Reporting with 
+      Zafira in .NET Projects" article, has to be shortened as the "first "Quick Navigation" section's hyperlink of the second article".
+
+
+• to be invented a principle for implementing of all manually designed test cases as test methods in the Visual Studio's test project:
+
+  - this principle has to depend on the test cases' original names and on their expected result for getting maximal benefits from the current
+    UI Automation test project.
+
+    - in accordance with the latter example and with the test case's expected result, the test case, named "Open "What is Zafira?" hyperlink"
+      will be implemented as the "SecondArticle_FirstQuickNavigationHyperlink_ScrollsThePageTo_ItsProperSection()"  test method in the Visual 
+      Studio's test project.
+
+
+• the principle for implementing of manually designed test cases as test methods in the Visual Studio's test project, described above, will be
+used in a similar way for all test cases, logged in this GitHub repository through its "Issues" option!
