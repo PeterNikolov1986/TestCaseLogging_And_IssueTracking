@@ -1,0 +1,8 @@
+  IMPORTANT CONDITIONS
+
+• these test case's attributes - ID, Priority, Pre-condition, Steps to reproduce, Expected result, Post-condition and Test status - have to  
+be present in every designed test case;
+• these issue report's attributes - ID, Priority, Severity, Related test case, Pre-condition, Steps to reproduce, Expected result, Observed 
+result and Notes (containing a hyperlink with a video recording of the issue's reason) - have to be present in every issue report;
+• the Visual Studio's test project has to contain a "Screenshots" folder and browser's screenshots with the failed tests' names have to be 
+present in it.

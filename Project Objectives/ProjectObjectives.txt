@@ -1,0 +1,17 @@
+  PROJECT OBJECTIVES
+
+  There are chosen 2 articles from the "Automate the planet" website for the needs of this project - "Jenkins C# API Library for Triggering 
+Builds"(shortened as the "First Article" in the Visual Studio's project) and "Test Automation Reporting with Zafira in .NET Projects"(known 
+as the "Second Article" in the Visual Studio's project). There are some issues found on the UI of every of these articles. Main objectives,
+related to this project, are:
+
+ • to be added a new GitHub repository;
+ • to be designed manually test cases, testing the opening of the "Quick Navigation" section' hyperlinks, part of the "Automate the planet" 
+website's chosen articles; 
+ • all designed test cases to be logged in the already added new GitHub repository through its "Issues" option; 
+ • to be created some issue reports, related with the test cases, responsible for issues finding; 
+ • all created issue reports to be logged in the already added new GitHub repository through its "Issues" option;  
+ • to be done UI Automation with Selenium WebDriver of all designed test cases with the help of Visual Studio 2017 and some fundamental and 
+object-oriented C# programming concepts;
+ • the latter Visual Studio's test project has to be located on the already added new GitHub repository and it has to contain more detailed 
+information about the automation work's tasks.
