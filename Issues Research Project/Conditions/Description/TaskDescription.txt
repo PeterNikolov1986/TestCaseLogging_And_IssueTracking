@@ -1,18 +1,11 @@
-  TASK DESCRIPTION
+  AUTOMATION TASK DESCRIPTION
 
   The basic idea for creating this GitHub repository is to be used the GitHub "Issues" option for adding some test cases and issue reports
 manually, but there is a possibility for automating these test cases with the help of Selenium WebDriver in Visual Studio. In spite of the
 fact that there are video recording added to every issue report, presenting the reason of failing of its related test case, the automation
-of the manually created test cases gives a new option for browser's screenshots with the names of the failed tests. So, the "UI Automation
+of all already designed test cases gives a new option for browser's screenshots with the names of the failed tests. So, the "UI Automation
 with Selenium WebDriver, using Visual Studio as IDE" option is useful as alternative of the manual tasks' execution and gives more benefit 
-for the project.
-
- • the names of the manually created test cases are shortened in the Visual Studio Selenium UI Automation's project - the articles, chosen
-   to be objects for testing, and most of their "Quick Navigation" section's hyperlinks, which successful opening has to be verified, have
-   too long names, so the following principle is used for shortening of the test methods' names:
-          - the articles, chosen to be objects for testing, are known as "First Article" and "Second Article";
-	  - every "Quick Navigation" section's hyperlinks is named after its order in the "Quick Navigation" section and its article - for
-   example, the "What is Zafira?" hyperlink is the first "Quick Navigation" section's hyperlink of the second article, and so on. 
+for the project as a whole.
 
 
 
